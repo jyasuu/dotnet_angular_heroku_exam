@@ -38,6 +38,8 @@ namespace dotnet_angular_heroku_exam
             }
             
             app.UseHttpsRedirection();
+            
+            app.UseDefaultFiles();
 
             app.UseStaticFiles();
 
