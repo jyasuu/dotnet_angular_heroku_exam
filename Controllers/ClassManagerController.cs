@@ -7,7 +7,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
 using Microsoft.Data.Sqlite;
 
-namespace dotnetcore_angular_exam.Controllers
+namespace dotnet_angular_heroku_exam.Controllers
 {
     [ApiController]
     [Route("[controller]")]
